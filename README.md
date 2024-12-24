@@ -23,7 +23,7 @@
   - **TowerFall : Événements et délégués**
     - Abonnez-vous aux manettes pour bouger et préparez vos macros et vos énumérations.
   - **This Means Warp : Classes et héritage**
-    - C'est un travail d'équipe qu'il va falloir réaliser, avec des classes "conditionnelles" à une situation.
+    - C'est un travail d'équipe qu'il va falloir réaliser, avec des classes plus poussées et influancée par des une situation.
   - **World of Warcraft : Check-list des concepts C# et entraide**
-    - Dernier check-up de groupe et entraide sur les matières non abordées à travers le tutoriel de Warcraft.
+    - Dernier check-up de groupe et entraide sur les matières non abordées à travers la traverser du tutoriald de Warcraft en groupe.
 - **Suite du level up avec Shérif : "Vous n'êtes pas prêt" 🧙‍♂️**
