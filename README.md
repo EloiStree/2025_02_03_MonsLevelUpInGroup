@@ -26,4 +26,4 @@
     - C'est un travail d'équipe qu'il va falloir réaliser, avec des classes plus poussées et influancée par des une situation.
   - **World of Warcraft : Check-list des concepts C# et entraide**
     - Dernier check-up de groupe et entraide sur les matières non abordées à travers la traverser du tutoriald de Warcraft en groupe.
-- **Suite du level up avec Shérif : "Vous n'êtes pas prêt" 🧙‍♂️**
+- **Suite du level up avec Chérif : "Vous n'êtes pas prêt" 🧙‍♂️**
