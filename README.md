@@ -28,7 +28,6 @@ Sans plus attendre, que le code soit avec nous !
  
   - **Stealth Bastard : Classes**  
     - L’enchaînement de niveaux vous demandera de préparer des boîtes à outils, et donc des classes.
-  
   - **TowerFall : Événements et délégués**  
     - Abonnez-vous aux manettes pour déplacer vos personnages et préparez vos macros ainsi que vos énumérations.  
   - **This Means Warp : Classes et héritage**  
@@ -50,12 +49,7 @@ Sans plus attendre, que le code soit avec nous !
 
 - **Suite du level up avec Chérif : "Vous n’êtes pas prêts" 🧙‍♂️**  
 
-
-
-
 ----------------------------
-
-
 
 - Hello Git [https://github.com/EloiStree/HelloGitForUnity3D](https://github.com/EloiStree/HelloGitForUnity3D)
 - Hello C#: [https://github.com/EloiStree/HelloSharpForUnity3D/issues](https://github.com/EloiStree/HelloSharpForUnity3D/issues)
@@ -67,4 +61,14 @@ Hors sujet:
 - les Raspberry Pi 5: [https://github.com/EloiStree/HelloRaspberryPiDevKitCM5](https://github.com/EloiStree/HelloRaspberryPiDevKitCM5)
 
 
+
+
+--------
+
+Tools to play:
+- Simulate a keyboard, gamepad and media with Raspberry Pi: https://github.com/EloiStree/2024_11_16_WowIntegerWorkshopPicoW
+- Simulate a Xbox from Arduino: https://github.com/EloiStree/2023_06_21_ArduinoToX360
+- Simulate a Bluetooth Gamepad with ESP32: https://github.com/EloiStree/2024_11_21_ESP32HC05RC/tree/main/XESP32HC05RC
+- Simulate four Xbox from UDP with C#: https://github.com/EloiStree/2022_01_24_XOMI
+- Simulate Window Keyboard to application from UDP with Python: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
 
