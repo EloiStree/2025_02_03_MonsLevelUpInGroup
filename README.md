@@ -25,11 +25,10 @@ Sans plus attendre, que le code soit avec nous !
 
 - **C# avec Rémy : Les bases du C#**  
 - **Niveau C# par le jeu :**  
-  - **10 Seconds Ninja : Méthodes et paramètres**  
-    - Pour ce défi de groupe, il vous faudra déplacer un ninja pour pratiquer :  
-      - Méthodes, boucles et paramètres.  
+ 
   - **Stealth Bastard : Classes**  
-    - L’enchaînement de niveaux vous demandera de préparer des boîtes à outils, et donc des classes.  
+    - L’enchaînement de niveaux vous demandera de préparer des boîtes à outils, et donc des classes.
+  
   - **TowerFall : Événements et délégués**  
     - Abonnez-vous aux manettes pour déplacer vos personnages et préparez vos macros ainsi que vos énumérations.  
   - **This Means Warp : Classes et héritage**  
