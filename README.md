@@ -25,7 +25,7 @@ Sans plus attendre, que le code soit avec nous !
 
 - **C# avec Rémy : Les bases du C#**  
 - **Niveau C# par le jeu :**  
-  - **10 Seconds Ninja**:-
+  - **10 Seconds Ninja**:
     - Vous permet d'apprendre ce qu'est des fonctions et des paramètres 
   - **Stealth Bastard : Classes**  
     - L’enchaînement de niveaux vous demandera de préparer des boîtes à outils, et donc des classes.
