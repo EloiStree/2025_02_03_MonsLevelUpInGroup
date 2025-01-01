@@ -72,3 +72,9 @@ Tools to play:
 - Simulate four Xbox from UDP with C#: https://github.com/EloiStree/2022_01_24_XOMI
 - Simulate Window Keyboard to application from UDP with Python: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
 
+
+
+--------
+
+Formation longue suivante:
+https://technocite.be/formations/developpeur-gaming
