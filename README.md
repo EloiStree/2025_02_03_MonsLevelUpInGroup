@@ -29,7 +29,7 @@ Sans plus attendre, que le code soit avec nous !
     - Vous permet d'apprendre ce qu'est des fonctions et des paramètres 
   - **Stealth Bastard : Classes**  
     - L’enchaînement de niveaux vous demandera de préparer des boîtes à outils, et donc des classes.
-  - **TowerFall : Événements et délégués**  
+  - **TowerFall : Python to C#**  
     - Abonnez-vous aux manettes pour déplacer vos personnages et préparez vos macros ainsi que vos énumérations.  
   - **This Means Warp : Classes et héritage**  
     - Un travail d’équipe sera nécessaire, avec des classes plus poussées influencées par diverses situations.  
