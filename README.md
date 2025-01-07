@@ -36,18 +36,17 @@ Sans plus attendre, que le code soit avec nous !
   - **World of Warcraft : Check-list des concepts C# et entraide**  
     - Dernier check-up en groupe et entraide sur les notions non abordées, en traversant le tutoriel de *World of Warcraft* en équipe.  
 
-- **Bonjour Unity3D : Un petit jeu Twitch 🤗 ?**  
-  - **C’est quoi Unity ?**  
-    - Qu’est-ce qu’un moteur de jeu (*game engine*) et qu’est-ce qu’un *build* ?  
-  - **Tips and Tricks MonoBehaviour**  
-    - Comment faire bouger des cubes et des sphères avec des scripts ?  
-  - **C’est quoi ProBuilder ?**  
-    - Qu’est-ce qu’un *mesh* et qu’est-ce qu’un objet 3D ?  
-  - **Bonjour Git**  
-    - Un peu de ligne de commande pour nous permettre de travailler ensemble (’^^).  
-  - **On rassemble tout ça pour voir 🍲**  
-    - Mettons tout en commun et jouons ensemble sur le même ordinateur avec ce que vous avez créé cette semaine.  
-
+- **Bonjour Unity3D : Un petit jeu Twitch 🤗 ?**
+    - **C’est quoi Unity ?**  
+      - Qu’est-ce qu’un moteur de jeu (*game engine*) et qu’est-ce qu’un *build* ?  
+    - **Tips and Tricks MonoBehaviour**  
+      - Comment faire bouger des cubes et des sphères avec des scripts ?  
+    - **Bonjour Git**  
+      - Un peu de ligne de commande pour nous permettre de travailler ensemble (’^^).  
+    - **Cloud Var à la Scratch et Twitch Play ?**  
+      - Envoyer et recevoir des entiers
+    - **On rassemble tout ça pour voir 🍲**  
+      - Mettons tout en commun et jouons ensemble sur le même écran avec ce que vous avez créé cette semaine.
 - **Suite du level up avec Chérif : "Vous n’êtes pas prêts" 🧙‍♂️**  
 
 ----------------------------
