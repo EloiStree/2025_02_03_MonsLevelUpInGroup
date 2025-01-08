@@ -53,7 +53,7 @@ Sans plus attendre, que le code soit avec nous !
 - **Suite du level up avec Chérif : "Vous n’êtes pas prêts" 🧙‍♂️**  
 
 
-> Mon but personnel, en tant que game developer qui aime la magie du code 🧙‍♂️, est que, à la fin, nous ayons 12 personnages qui s'amusent sur le même écran pour le plaisir d'apprendre C#.  
+> Mon but personnel, en tant que game developer qui aime la magie du code 🧙‍♂️, est que, à la fin, nous ayons 12 personnages, un par élève, qui s'amusent sur le même écran pour le plaisir d'apprendre C#.  
 > La première semaine est là pour vous garder concentrés sur l'apprentissage de C# en dehors de Unity et sans faire un pendu sur la console et sans faire aboyer un chien.  
 > La deuxième semaine est là pour s'amuser en créant un jeu *Twitch Play* jouable grâce aux codes de la première semaine.  
 > Je vais moins mettre l'accent sur Unity3D, car c'est une mise à niveau plus qu'une découverte, et vous aurez le temps d'apprendre Unity3D dans la formation longue.
