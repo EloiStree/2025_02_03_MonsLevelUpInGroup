@@ -15,18 +15,13 @@ Le cours repose sur deux langages et deux piliers :
 
 Voici une version corrigée et légèrement reformulée pour une meilleure fluidité et correction grammaticale :  
 
-**Hors formation :**  
-_Vous souhaitez apprendre C# par le jeu et vous n'êtes pas inscrit à la formation._  
-
+**Hors formation :**    
 Ce cours est open source : vous pouvez venir jouer avec nous sur Twitch lorsque j'organise des streams publics : [EloiTeaching](https://www.twitch.tv/eloiteaching).  
-Vous pouvez également apprendre à utiliser [ScratchToWarcraft](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft), un outil qui vous permet, via Python, de jouer à vos jeux en programmant avec du code.  
-
+Vous pouvez également apprendre à utiliser [Scratch To Warcraft](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft), un outil qui vous permet, via UDP, de jouer à vos jeux en programmant avec du code.  
 N'hésitez pas à me pinguer sur [Discord](https://discord.com/invite/UuWWpQMEYh) si vous souhaitez vous lancer en solitaire hors formation.  
 
 
 Sans plus attendre, que le code soit avec vous !  
-
-
 
 --------------
 
