@@ -32,7 +32,7 @@ Sans plus attendre, que le code soit avec nous !
     - Un travail d’équipe sera nécessaire, avec des classes plus poussées influencées par diverses situations.  
   - **World of Warcraft : Check-list des concepts C# et entraide**  ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/14))
     - Dernier check-up en groupe et entraide sur les notions non abordées, en traversant le tutoriel de *World of Warcraft* en équipe.
-  - **Golden Eye: Pratiquer les exercices durant les pauses** ([Game]([#](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6)))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))
+  - **Golden Eye: Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))
     - Durant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉  
 
 
