@@ -36,11 +36,6 @@ Sans plus attendre, que le code soit avec nous !
     - Durant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉  
 
 
-
-> Mon but personnel, en tant que game developer qui aime la magie du code 🧙‍♂️, est que, à la fin, nous ayons 12 personnages, un par élève, qui s'amusent sur le même écran pour le plaisir d'apprendre C#.  
-> La première semaine est là pour vous garder concentrés sur l'apprentissage de C# en dehors de Unity et sans faire un pendu sur la console et sans faire aboyer un chien.  
-
-
 ----------------------------
 
 - Hello Git [https://github.com/EloiStree/HelloGitForUnity3D](https://github.com/EloiStree/HelloGitForUnity3D)
