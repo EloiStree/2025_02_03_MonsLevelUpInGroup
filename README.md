@@ -32,8 +32,6 @@ Sans plus attendre, que le code soit avec vous !
 
 # Plan de base
 
-**Mise à niveau en groupe de C# sur Visual Studio, dans le but de commencer une formation longue sous Unity3D par la suite.**
-
 - **Niveau C# par le jeu :**  
   - **10 Seconds Ninja**:([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/3)) ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/10))
     - Vous permet d'apprendre ce qu'est des fonctions et des paramètres 
