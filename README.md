@@ -79,6 +79,6 @@ https://technocite.be/formations/developpeur-gaming
 
 -------------
 
-Mots réserver en C#: https://github.com/EloiStree/HelloSharpForUnity3D/issues/354
-Les 100 mots à connaitre en C#: https://github.com/EloiStree/HelloSharpForUnity3D/issues/474
-Python MUST KNOW: https://github.com/EloiStree/HelloSharpForUnity3D/issues/171
+- Mots réserver en C#: https://github.com/EloiStree/HelloSharpForUnity3D/issues/354
+- Les 100 mots à connaitre en C#: https://github.com/EloiStree/HelloSharpForUnity3D/issues/474
+- Python MUST KNOW: https://github.com/EloiStree/HelloSharpForUnity3D/issues/171
