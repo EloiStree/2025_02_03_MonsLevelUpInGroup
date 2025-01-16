@@ -36,10 +36,10 @@ Quatre des talents les plus précieux dans le métier de game developer sont :
 - savoir travailler en équipe
 - maîtriser la lecture d’un manuel.
   
-Ajoutons un 5ᵉ essentiel pour ce métier, que l'on ne choisit pas à la naissance :
-être discipliné et strict sur la propreté de son travail.
-_(Et je ne l'ai pas...)_
-
+Ajoutons un 5ᵉ essentiel pour ce métier, que l'on ne choisit pas à la naissance:       
+> être discipliné et strict sur la propreté de son travail.     
+_(Et je ne l'ai pas...)_    
+  
 
 Nous allons, durant cette semaine, nous mettre à l'épreuve sur le sujet à travers l'apprentissage de Python et C# 🧙‍♂️  
 Que le code soit avec vous 🔦.  
