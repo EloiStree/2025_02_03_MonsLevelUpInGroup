@@ -86,7 +86,7 @@ _Ou qui aimerait s'essayer au métier que je résumerai par en QA AI Scratcher_
 - Des codes pour micro-controlleurs: https://github.com/EloiStree/2024_11_31_ReadHardwareToIndexInteger 
 
 
-La formation qui suit c'est formation est ici:
+La formation qui suit cette formation est ici:
 - [https://technocite.be/formations/developpeur-gaming](https://technocite.be/formations/developpeur-gaming)
 - [https://technocite.be/recherche?keywords=Gaming](https://technocite.be/recherche?keywords=Gaming)
   
