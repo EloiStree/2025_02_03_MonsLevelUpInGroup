@@ -147,3 +147,8 @@ _D'un entier à du binaires 1/0_
 
 
 
+
+-------------
+
+
+So You think you know Git: [https://www.youtube.com/watch?v=aolI_Rz0ZqY](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
