@@ -105,7 +105,10 @@ C# Containing all topics.
 
 
 
-Meta Mask Players ID:
+Si certains élèves se comportent comme en saboteurs, nous devrons utiliser un système de connexion cryptographique.  
+(_Ou si un majorité de la classe veut apprendre ce qu'est Ethereum et un clé RSA Pkcs1 SHA 256 4096Bits dans le contect de Python et C#_)
+
+Liste des joueurs MetaMask autorisés sur le serveur Raspberry Pi pour les cours:   
 01:[0xA7c02172ff523586907C201d76AB6EE4A370d0c2](https://etherscan.io/address/0xA7c02172ff523586907C201d76AB6EE4A370d0c2)  
 02:[0x77C724490291F7D18b9B5320B75D9d2bE609faa5](https://etherscan.io/address/0x77C724490291F7D18b9B5320B75D9d2bE609faa5)  
 03:[0x7E5F382863E003022757490328d03ebf33D7c2e0](https://etherscan.io/address/0x7E5F382863E003022757490328d03ebf33D7c2e0)  
@@ -125,7 +128,9 @@ Meta Mask Players ID:
 
 
 
-
+**Integer to Binary**:    
+_D'un entier à du binaires 1/0_     
+[https://www.rapidtables.com/convert/number/decimal-to-binary.html?x=2082](https://www.rapidtables.com/convert/number/decimal-to-binary.html?x=2082)    
 
 
 
