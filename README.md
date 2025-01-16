@@ -87,10 +87,10 @@ _Ou qui aimerait s'essayer au métier que je résumerai par en QA AI Scratcher_
 La formation qui suit c'est formation est ici:
 - [https://technocite.be/formations/developpeur-gaming](https://technocite.be/formations/developpeur-gaming)
 - [https://technocite.be/recherche?keywords=Gaming](https://technocite.be/recherche?keywords=Gaming)
-- 
+  
 [![image](https://github.com/user-attachments/assets/7d45f303-4395-476a-8dac-dac379ad5d79)](https://technocite.be/formations/developpeur-gaming](https://technocite.be/formations/developpeur-gaming)  
 [![image](https://github.com/user-attachments/assets/81f6e069-288b-4f35-95b2-67d82d39c4ba)](https://technocite.be/recherche?keywords=Gaming)   
-  
+    
 
 
 -------------
