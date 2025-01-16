@@ -82,7 +82,8 @@ _Ou qui aimerait s'essayer au métier que je résumerai par en QA AI Scratcher_
 - Simulate a Xbox from Arduino: https://github.com/EloiStree/2023_06_21_ArduinoToX360  
 - Simulate a Bluetooth Gamepad with ESP32: https://github.com/EloiStree/2024_11_21_ESP32HC05RC/tree/main/XESP32HC05RC  
 - Simulate four Xbox from UDP with C#: https://github.com/EloiStree/2022_01_24_XOMI  
-- Simulate Window Keyboard to application from UDP with Python: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft  
+- Simulate Window Keyboard to application from UDP with Python: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
+- Des codes pour micro-controlleurs: https://github.com/EloiStree/2024_11_31_ReadHardwareToIndexInteger 
 
 
 La formation qui suit c'est formation est ici:
