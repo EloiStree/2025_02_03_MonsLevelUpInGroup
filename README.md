@@ -114,8 +114,8 @@ Ce code est un outil Unity3D avec la majorité des sujets à apprendre en C# com
 
 
 
-Si certains élèves se comportent comme en saboteurs, nous devrons utiliser un système de connexion cryptographique.  
-(_Ou si un majorité de la classe veut apprendre ce qu'est Ethereum et un clé RSA Pkcs1 SHA 256 4096Bits dans le contect de Python et C#_)
+Si certains élèves sabotent le cours UDP, nous devrons utiliser un système de login cryptographique.  
+(_Ou si un majorité de la classe veut apprendre ce qu'est Ethereum (ECC) et un clé RSA Pkcs1 SHA 256 4096Bits dans le contect de Python et C#_)
 
 Liste des joueurs MetaMask autorisés sur le serveur Raspberry Pi pour les cours:   
 01:[0xA7c02172ff523586907C201d76AB6EE4A370d0c2](https://etherscan.io/address/0xA7c02172ff523586907C201d76AB6EE4A370d0c2)  
@@ -138,7 +138,7 @@ Liste des joueurs MetaMask autorisés sur le serveur Raspberry Pi pour les cours
 
 
 **Integer to Binary**:    
-_D'un entier à du binaires 1/0_     
+_D'un entier à du binaires 1/0_      
 [https://www.rapidtables.com/convert/number/decimal-to-binary.html?x=2082](https://www.rapidtables.com/convert/number/decimal-to-binary.html?x=2082)    
 
 
