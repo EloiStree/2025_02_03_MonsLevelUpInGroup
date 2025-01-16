@@ -30,29 +30,36 @@ Sans plus attendre, que le code soit avec vous !
 
 Ce cours est un travail de groupe dont le but est de maîtriser un maximum de mots-clés d’une tier-liste C# à travers la pratique de QA testing par le code de jeux vidéo.  
 
-Quatre des talents les plus précieux dans le métier de game developer sont : être autodidacte, garder une bonne humeur, savoir travailler en équipe et maîtriser la lecture d’un manuel.  
-Nous allons, durant cette semaine, nous mettre à l'épreuve sur le sujet à travers l'apprentissage de Python et C# 🧙‍♂️  
+Quatre des talents les plus précieux dans le métier de game developer sont : 
+- être autodidacte,
+- garder une bonne humeur,
+- savoir travailler en équipe
+- maîtriser la lecture d’un manuel.
+  
+Ajoutons un 5ᵉ essentiel pour ce métier, que l'on ne choisit pas à la naissance :
+être discipliné et strict sur la propreté de son travail.
+_(Et je ne l'ai pas...)_
 
+
+Nous allons, durant cette semaine, nous mettre à l'épreuve sur le sujet à travers l'apprentissage de Python et C# 🧙‍♂️  
 Que le code soit avec vous 🔦.  
 
 
 ### **Niveau C# par le jeu :**  
 
-- **10 Seconds Ninja** : ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/3)) ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/10))  
+- **10 Seconds Ninja** : ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/3) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/10))  
   - Vous permet d'apprendre ce qu'est une fonction, des paramètres, un thread et la gestion du temps.  
   - **Plan** :  
     - Apprendre la programmation avec Python  
     - Poser votre code sur GitHub  
     - Passer de Python à C# avec Visual Studio  
-
-- **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8)) ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/14))  
+- **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/14))  
   - Vous permet d'apprendre les bases de la programmation orientée objet en C#.  
   - **L'objectif est simple** : tuer Hogger dans *World of Warcraft* en équipe.  
   - **Plan** :  
     - Utiliser C# pour vaincre Hogger en pair programming  
     - Transition vers la programmation orientée objet en C#  
-
-- **Golden Eye : Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6)) ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))  
+- **Golden Eye : Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))  
   - Pendant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉  
 
 ----------------------------
