@@ -73,6 +73,7 @@ D'ancien cours qui peuvent vous servir pour votre carrière:
 Hors sujet pour ceux qui aimerai apprendre plus via Scratch et Raspberry Pi:
 - Scratch : [https://github.com/EloiStree/HelloScratchToUnity/issues](https://github.com/EloiStree/HelloScratchToUnity/issues)
 - les Raspberry Pi 5: [https://github.com/EloiStree/HelloRaspberryPiDevKitCM5](https://github.com/EloiStree/HelloRaspberryPiDevKitCM5)
+- Si vous désirez perdre vos économies sur du Python avec les Pico W et ESP32: [https://github.com/EloiStree/HelloInput](https://github.com/EloiStree/HelloInput)
   
 
 Des outils de hack par injection pour ceux qui aimerai faire une carrière de QA testeurs par le code:  
