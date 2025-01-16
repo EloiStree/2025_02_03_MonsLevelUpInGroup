@@ -64,40 +64,47 @@ Que le code soit avec vous 🔦.
 
 ----------------------------
 
+D'ancien cours qui peuvent vous servir pour votre carrière:
 - Hello Git [https://github.com/EloiStree/HelloGitForUnity3D](https://github.com/EloiStree/HelloGitForUnity3D)
 - Hello C#: [https://github.com/EloiStree/HelloSharpForUnity3D/issues](https://github.com/EloiStree/HelloSharpForUnity3D/issues)
 - Hello Unity: [https://github.com/EloiStree/HelloGitForUnity3D/issues](https://github.com/EloiStree/HelloGitForUnity3D/issues)
 - Hello Charleroi: [https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues?q=workshop](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues?q=workshop)
 
-Hors sujet:
+Hors sujet pour ceux qui aimerai apprendre plus via Scratch et Raspberry Pi:
 - Scratch : [https://github.com/EloiStree/HelloScratchToUnity/issues](https://github.com/EloiStree/HelloScratchToUnity/issues)
 - les Raspberry Pi 5: [https://github.com/EloiStree/HelloRaspberryPiDevKitCM5](https://github.com/EloiStree/HelloRaspberryPiDevKitCM5)
   
---------
 
-Tools to play:
-- Simulate a keyboard, gamepad and media with Raspberry Pi: https://github.com/EloiStree/2024_11_16_WowIntegerWorkshopPicoW
-- Simulate a Xbox from Arduino: https://github.com/EloiStree/2023_06_21_ArduinoToX360
-- Simulate a Bluetooth Gamepad with ESP32: https://github.com/EloiStree/2024_11_21_ESP32HC05RC/tree/main/XESP32HC05RC
-- Simulate four Xbox from UDP with C#: https://github.com/EloiStree/2022_01_24_XOMI
-- Simulate Window Keyboard to application from UDP with Python: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
+Des outils de hack par injection pour ceux qui aimerai faire une carrière de QA testeurs par le code:  
+_Ou qui aimerait s'essayer au métier que je résumerai par en QA AI Scratcher_    
+- Simulate a keyboard, gamepad and media with Raspberry Pi: https://github.com/EloiStree/2024_11_16_WowIntegerWorkshopPicoW  
+- Simulate a Xbox from Arduino: https://github.com/EloiStree/2023_06_21_ArduinoToX360  
+- Simulate a Bluetooth Gamepad with ESP32: https://github.com/EloiStree/2024_11_21_ESP32HC05RC/tree/main/XESP32HC05RC  
+- Simulate four Xbox from UDP with C#: https://github.com/EloiStree/2022_01_24_XOMI  
+- Simulate Window Keyboard to application from UDP with Python: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft  
 
 
-
---------
-
-Formation longue suivante:
-https://technocite.be/formations/developpeur-gaming
+La formation qui suit c'est formation est ici:
+- [https://technocite.be/formations/developpeur-gaming](https://technocite.be/formations/developpeur-gaming)
+- [https://technocite.be/recherche?keywords=Gaming](https://technocite.be/recherche?keywords=Gaming)
+- 
+[![image](https://github.com/user-attachments/assets/7d45f303-4395-476a-8dac-dac379ad5d79)](https://technocite.be/formations/developpeur-gaming](https://technocite.be/formations/developpeur-gaming)  
+[![image](https://github.com/user-attachments/assets/81f6e069-288b-4f35-95b2-67d82d39c4ba)](https://technocite.be/recherche?keywords=Gaming)   
+  
 
 
 -------------
 
-- Mots réserver en C#: https://github.com/EloiStree/HelloSharpForUnity3D/issues/354
-- Les 100 mots à connaitre en C#: https://github.com/EloiStree/HelloSharpForUnity3D/issues/474
-- Python MUST KNOW: https://github.com/EloiStree/HelloSharpForUnity3D/issues/171
-
-C# Containing all topics.
-- Cursor 65 C# : https://github.com/EloiStree/2024_10_10_Cursor65
+Des liens d'apprentissage C#: 
+- Mots réserver en C#: [https://github.com/EloiStree/HelloSharpForUnity3D/issues/354](https://github.com/EloiStree/HelloSharpForUnity3D/issues/354)
+- Les 100 mots à connaitre en C#: [https://github.com/EloiStree/HelloSharpForUnity3D/issues/474](https://github.com/EloiStree/HelloSharpForUnity3D/issues/474)
+- Python MUST KNOW: [https://github.com/EloiStree/HelloSharpForUnity3D/issues/171](https://github.com/EloiStree/HelloSharpForUnity3D/issues/171)
+- Les cours de CodeMonkey sur Unity3D spécifique au C#: 
+  - https://github.com/EloiStree/HelloSharpForUnity3D/issues/451
+  - https://github.com/EloiStree/HelloSharpForUnity3D/issues/447
+  - C# List : https://github.com/EloiStree/HelloSharpForUnity3D/issues/10
+Ce code est un outil Unity3D avec la majorité des sujets à apprendre en C# compacté en un curseur 3D:
+- Cursor 65 C# : [https://github.com/EloiStree/2024_10_10_Cursor65](https://github.com/EloiStree/2024_10_10_Cursor65)
 
 
 ----------------------
