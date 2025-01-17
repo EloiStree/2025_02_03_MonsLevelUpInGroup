@@ -59,9 +59,9 @@ Que le code soit avec vous 🔦.
     - Passer de Python à C# avec Visual Studio  
 - **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/14))  
   - Vous permet d'apprendre les bases de la programmation orientée objet en C#.  
-  - **L'objectif est simple** : tuer Hogger dans *World of Warcraft* en équipe.  
+  - **L'objectif est simple** : finir les "The Deadmines" de *World of Warcraft* en équipe.  
   - **Plan** :  
-    - Utiliser C# pour vaincre Hogger en pair programming  
+    - Utiliser C# pour finir The Deadmines en pair programming  
     - Transition vers la programmation orientée objet en C#  
 - **Golden Eye : Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))  
   - Pendant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉  
