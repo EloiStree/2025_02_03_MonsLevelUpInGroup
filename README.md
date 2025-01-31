@@ -67,8 +67,7 @@ Que le code soit avec vous 🔦.
   - **Plan** :  
     - Utiliser C# pour finir The Deadmines en pair programming  
     - Transition vers la programmation orientée objet en C#  
-- **Golden Eye : Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))  
-  - Pendant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉  
+
 
 ----------------------------
 
@@ -157,3 +156,9 @@ _D'un entier à du binaires 1/0_
 
 So You think you know Git: [https://www.youtube.com/watch?v=aolI_Rz0ZqY](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 - Crazy: https://www.youtube.com/watch?v=aolI_Rz0ZqY 20:58 Git SSH
+
+-------------
+
+Retiré:
+- **Golden Eye : Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))  
+  - Pendant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉
