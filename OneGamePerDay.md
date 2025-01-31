@@ -1,0 +1,13 @@
+- **Niveau C# par le jeu :**  
+  - **10 Seconds Ninja**:([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/3)) ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/10))
+    - Vous permet d'apprendre ce qu'est des fonctions et des paramètres 
+  - **Stealth Bastard : Classes**  ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/4))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/11))
+    - L’enchaînement de niveaux vous demandera de préparer des boîtes à outils, et donc des classes.
+  - **TowerFall : Python to C#**  ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/7))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/12))
+    - Abonnez-vous aux manettes pour déplacer vos personnages et préparez vos macros ainsi que vos énumérations.  
+  - **This Means Warp : Classes et héritage**  ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/5))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/13))
+    - Un travail d’équipe sera nécessaire, avec des classes plus poussées influencées par diverses situations.  
+  - **World of Warcraft : Check-list des concepts C# et entraide**  ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/14))
+    - Dernier check-up en groupe et entraide sur les notions non abordées, en traversant le tutoriel de *World of Warcraft* en équipe.
+  - **Golden Eye: Pratiquer les exercices durant les pauses** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/6))([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/15))
+    - Durant les pauses, vous pouvez pratiquer votre code sur Golden Eye 😉  
