@@ -56,7 +56,7 @@ Que le code soit avec vous 🔦.
   - **Plan** :  
     - Apprendre la programmation avec Python  
     - Poser votre code sur GitHub  
-- **Bubble Tank**: ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/24)
+- **Bubble Tank**: ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/24) )
   - Vous permet d'apprendre à faire du Python et C# nécessistant des classes et des maths [😉 ➗➕🟰](https://youtu.be/gENVB6tjq_M?t=5)
   - **Plan**:
     - C'est quoi une classe en Python et en C# ?  
