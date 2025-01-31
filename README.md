@@ -56,7 +56,11 @@ Que le code soit avec vous 🔦.
   - **Plan** :  
     - Apprendre la programmation avec Python  
     - Poser votre code sur GitHub  
-    - Passer de Python à C# avec Visual Studio  
+- **Bubble Tank**: ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/24)
+  - Vous permet d'apprendre à faire du Python et C# nécessistant des classes et des maths [😉 ➗➕🟰](https://youtu.be/gENVB6tjq_M?t=5)
+  - **Plan**:
+    - C'est quoi une classe en Python et en C# ?  
+    - Passer de Python à C# avec Visual Studio
 - **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/22))  
   - Vous permet d'apprendre les bases de la programmation orientée objet en C#.  
   - **L'objectif est simple** : finir les "The Deadmines" de *World of Warcraft* en équipe.  
