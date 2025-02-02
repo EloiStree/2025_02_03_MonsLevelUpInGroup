@@ -1,7 +1,16 @@
 _Server : `apint.ddns.net:3615`_
 
+
+Introduction à l'atelier:   
+https://youtu.be/gLs49QntNyM  
+
 --------------------------------
 
+[![image](https://github.com/user-attachments/assets/06381aed-d452-410f-bf3d-b915ec865dd5)](https://technocite.be)  
+[![image](https://github.com/user-attachments/assets/aeb7ae4c-a8a5-4c7a-8888-0d43c28c6320)](https://maracas-studio.com)  
+
+
+--------------
 # Mons Level Up en groupe
 
 **Bonjour à tous,**
