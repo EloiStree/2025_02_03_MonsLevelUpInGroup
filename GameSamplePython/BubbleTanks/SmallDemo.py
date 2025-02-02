@@ -19,6 +19,7 @@ game_port_listen_info:int = 8001
 
 ##CMD:  ipconfig
 ipv4_address:str = "192.168.1.118"
+ipv4_address:str = "81.240.94.97"
 ipv4_address:str = "127.0.0.1"
 
 
@@ -41,14 +42,21 @@ player_index= 456654
 
 
 
+"""
+https://github.com/EloiStree/2025_02_01_GameStateUnityToWsTOML
+https://github.com/EloiStree/2025_02_01_GameStateToWsTOML
 
+"""
 class PlayerInfoOnServer:
-    def __init__(self,player_index:int, player_team_id:int
+    def __init__(self,player_index:int,
+                 player_lobby_id:int,
+                 player_team_id:int
                  , position_x:float, position_y:float, position_z:float
                  , rotation_x:float, rotation_y:float, rotation_z:float
                  , size:float
                  , flat_x2z_angle:float):
         self.player_index = player_index
+        self.player_lobby_id = player_lobby_id
         self.player_team_id = player_team_id
         self.position_x = position_x
         self.position_y = position_y
@@ -62,7 +70,7 @@ class PlayerInfoOnServer:
         
         
 dico_player_info = {}
-dico_player_info[1] = PlayerInfoOnServer(player_index, 0, 0, 0, 0, 0, 0, 0, 0, 0)   
+dico_player_info[1] = PlayerInfoOnServer(player_index,0, 0, 0, 0, 0, 0, 0, 0, 0, 0)   
         
 
 
@@ -132,23 +140,27 @@ def listen_to_port(port):
             #     print("ME:",line)
             
             items = line.split(':')
-            if len(items)==10 and items[0].isdigit():
+            if len(items)==11 and items[0].isdigit():
                 player_index = int(items[0])
-                player_team_id = int(items[1])
-                position_x = int(items[2])/1000
-                position_y = int(items[3])/1000
-                position_z = int(items[4])/1000
-                rotation_x = int(items[5])/1000
-                rotation_y = int(items[6])/1000
-                rotation_z = int(items[7])/1000
-                size = int(items[8])/1000
-                flat_x2z_angle = int(items[9])/1000
+                player_lobby_id = int(items[1])
+                player_team_id = int(items[2])
+                position_x = int(items[3])/1000
+                position_y = int(items[4])/1000
+                position_z = int(items[5])/1000
+                rotation_x = int(items[6])/1000
+                rotation_y = int(items[7])/1000
+                rotation_z = int(items[8])/1000
+                size = int(items[9])/1000
+                flat_x2z_angle = int(items[10])/1000
                 
                 
                 player_referce = None
                 player_index_str_id = str(player_index)
                 if not ( player_index_str_id in dico_player_info):
-                    dico_player_info[player_index_str_id] = PlayerInfoOnServer(player_index, player_team_id
+                    dico_player_info[player_index_str_id] = PlayerInfoOnServer(
+                        player_index,
+                        player_lobby_id,
+                        player_team_id
                      , position_x, position_y, position_z
                      , rotation_x, rotation_y, rotation_z
                      , size
@@ -157,6 +169,7 @@ def listen_to_port(port):
                         print ("New player:",player_index_str_id)
                 else: 
                     player_referce = dico_player_info[player_index_str_id]
+                    player_referce.player_lobby_id = player_lobby_id
                     player_referce.player_team_id = player_team_id
                     player_referce.position_x = position_x
                     player_referce.position_y = position_y
@@ -208,43 +221,71 @@ class MyVector3:
 def handle_ai_logic (): 
     print ("Start AI logic")
     
-
+    global player_index
+    global dico_player_info
     
     while True:
         print("AI logic")
         time.sleep(1)
+        if str(player_index) in dico_player_info:
+            me : PlayerInfoOnServer = dico_player_info[str(player_index)]
             
-        me : PlayerInfoOnServer = dico_player_info[str(player_index)]
+            where_am_i = MyVector3(me.position_x, me.position_y, me.position_z)
+            where_to_go = MyVector3(0, 0, 0)
+            my_direction = me.flat_x2z_angle
+            
+            print (f"Where am I: {where_am_i.x}{where_am_i.y}{where_am_i.z}")
+            print ("Current Direction:", my_direction)
+            print("Move up")
+            fire()
+            move_up_start()
+            time.sleep(3)
+            move_up_end()
+            
+            print("Move down")
+            fire()
+            move_down_start()
+            time.sleep(3)
+            move_down_end()
+            
+            print("Rotate left")
+            fire()
+            rotate_left_start()
+            time.sleep(3)
+            rotate_left_end()
+            
+            print("Rotate right")
+            fire()
+            rotate_right_start()
+            time.sleep(3)
+            rotate_right_end()
+        else :
+            print("Move up")
+            fire()
+            move_up_start()
+            time.sleep(3)
+            move_up_end()
+            
+            print("Move down")
+            fire()
+            move_down_start()
+            time.sleep(3)
+            move_down_end()
+            
+            print("Rotate left")
+            fire()
+            rotate_left_start()
+            time.sleep(3)
+            rotate_left_end()
+            
+            print("Rotate right")
+            fire()
+            rotate_right_start()
+            time.sleep(3)
+            rotate_right_end()
+            
         
-        where_am_i = MyVector3(me.position_x, me.position_y, me.position_z)
-        where_to_go = MyVector3(0, 0, 0)
-        my_direction = me.flat_x2z_angle
-        
-        print ("Current Direction:", my_direction)
-        print("Move up")
-        fire()
-        move_up_start()
-        time.sleep(3)
-        move_up_end()
-        
-        print("Move down")
-        fire()
-        move_down_start()
-        time.sleep(3)
-        move_down_end()
-        
-        print("Rotate left")
-        fire()
-        rotate_left_start()
-        time.sleep(3)
-        rotate_left_end()
-        
-        print("Rotate right")
-        fire()
-        rotate_right_start()
-        time.sleep(3)
-        rotate_right_end()
-        
+       
         
 
 
