@@ -1,8 +1,8 @@
-_Server : `apint.ddns.net:3615`_
+_Server : `apint.ddns.net:3615`_  
+Discord: https://discord.gg/u74QCHJ2YC  
 
-
-Introduction à l'atelier:   
-https://youtu.be/gLs49QntNyM  
+Introduction à l'atelier:       
+https://youtu.be/gLs49QntNyM    
 
 --------------------------------
 
