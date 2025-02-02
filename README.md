@@ -2,7 +2,9 @@ _Server : `apint.ddns.net:3615`_
 Discord: https://discord.gg/u74QCHJ2YC  
 
 Introduction à l'atelier:       
-https://youtu.be/gLs49QntNyM    
+[https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)    
+  
+✅[Checklist: Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing) 
 
 --------------------------------
 
