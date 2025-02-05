@@ -38,7 +38,7 @@ key_fire:int = 1032
 
 player : SendUdpIID = SendUdpIID(ipv4_address, game_port_sent, True, True)
 
-player_index= 456654
+player_index= -21
 
 
 
