@@ -24,9 +24,7 @@ Le cours repose sur deux langages et deux piliers :
   - C#  
 - **Piliers** :  
   - Une checklist des bases de C#  
-  - Apprendre en s’amusant 🎮  
-
-Voici une version corrigée et légèrement reformulée pour une meilleure fluidité et correction grammaticale :  
+  - Apprendre en s’amusant 🎮    
 
 **Hors formation :**    
 Ce cours est open source : vous pouvez venir jouer avec nous sur Twitch lorsque j'organise des streams publics : [EloiTeaching](https://www.twitch.tv/eloiteaching).  
