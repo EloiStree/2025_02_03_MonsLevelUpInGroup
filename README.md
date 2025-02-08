@@ -67,13 +67,7 @@ Que le code soit avec vous 🔦.
 - **10 Seconds Ninja** : ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/3) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/10))  
   - Vous permet d'apprendre ce qu'est une fonction, des paramètres, un thread et la gestion du temps.  
   - **Plan** :  
-    - Apprendre la programmation avec Python  
-    - Poser votre code sur GitHub  
-- **Bubble Tank**: ([Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/24) )
-  - Vous permet d'apprendre à faire du Python et C# nécessistant des classes et des maths [😉 ➗➕🟰](https://youtu.be/gENVB6tjq_M?t=5)
-  - **Plan**:
-    - C'est quoi une classe en Python et en C# ?  
-    - Passer de Python à C# avec Visual Studio
+    - C'est quoi du code ? C'est quoi une variable ? C'est quoi un Thread ?
 - **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/22))  
   - Vous permet d'apprendre les bases de la programmation orientée objet en C#.  
   - **L'objectif est simple** : finir les "The Deadmines" de *World of Warcraft* en équipe.  
