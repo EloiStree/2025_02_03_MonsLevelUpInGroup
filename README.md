@@ -62,6 +62,9 @@ Que le code soit avec vous 🔦.
   - Vous permet d'apprendre ce qu'est une fonction, des paramètres, un thread et la gestion du temps.  
   - **Plan** :  
     - C'est quoi du code ? C'est quoi une variable ? C'est quoi un Thread ?
+  - **Exercice**:
+    - Python: https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp/blob/main/Python/ReadMe.md
+    - C#: https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp/blob/main/VisualStudio
 - **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/22))  
   - Vous permet d'apprendre les bases de la programmation orientée objet en C#.  
   - **L'objectif est simple** : finir les "The Deadmines" de *World of Warcraft* en équipe.  
