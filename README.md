@@ -1,11 +1,12 @@
-_Server : `apint.ddns.net:3615`_  
-Discord: https://discord.gg/u74QCHJ2YC  
+_Server hors formation : `apint.ddns.net:3615`_   
 
-Introduction à l'atelier:       
-[https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)    
+**Introduction à l'atelier : avant la bataille (^^')**  
+*Car aucun plan ne survit à la bataille*  
+[https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)
+
   
 ✅[Checklist: Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing)   
-🆂🅰🅱🅲🅳🅴🅵 Tier List C#: [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
+🆂🅲🅳🅴🅵 Tier List C#: [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
 
 
 --------------------------------
