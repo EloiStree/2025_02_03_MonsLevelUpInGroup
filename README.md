@@ -7,7 +7,6 @@ Introduction à l'atelier:
 ✅[Checklist: Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing)   
 🆂🅰🅱🅲🅳🅴🅵 Tier List C#: [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
 
-Game dev café: https://www.eventbrite.be/e/billets-game-dev-afterwork-642949147207
 
 --------------------------------
 
