@@ -1,5 +1,7 @@
 > **Jeu : 10 Second Ninja**  
+
 Git: https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp.git  
+
 **Jour 1 : C'est quoi du code ?**       
 - Jeu : 10 Second Ninja     
 - Matin : Apprendre ce qu'est une variable et une méthode, et ce qu'il y a autour en Python  
@@ -7,7 +9,9 @@ Git: https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp.git
 
 
 > **Jeu : World of Warcraft**   
+
 Git: https://github.com/EloiStree/2025_02_05_WarcraftClientQA  
+
 **Jour 2 : C'est quoi une console ?**    
 - Matin : Apprendre à utiliser Console.WriteLine et ReadLine    
 - Après-midi : Apprendre à utiliser if, switch avec string.Split()  
