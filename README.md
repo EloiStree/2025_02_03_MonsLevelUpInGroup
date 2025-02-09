@@ -72,6 +72,7 @@ Que le code soit avec vous 🔦.
     - Utiliser C# pour finir The Deadmines en pair programming  
     - Transition vers la programmation orientée objet en C#  
 
+**Milestone de la semaine:**   https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/blob/main/Week/2025_02_10_Milestone.md  
 
 ----------------------------
 
