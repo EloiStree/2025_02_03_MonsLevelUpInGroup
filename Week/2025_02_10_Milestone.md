@@ -1,5 +1,4 @@
-> **Jeu : 10 Second Ninja**  
-
+**Jeu : 10 Second Ninja**  
 Git: https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp.git  
 
 **Jour 1 : C'est quoi du code ?**       
@@ -8,8 +7,7 @@ Git: https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp.git
 - Après-midi : Même exercice en C# (int, float, Thread.Sleep, méthode statique, using...)  
 
 
-> **Jeu : World of Warcraft**   
-
+**Jeu : World of Warcraft**   
 Git: https://github.com/EloiStree/2025_02_05_WarcraftClientQA  
 
 **Jour 2 : C'est quoi une console ?**    
