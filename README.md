@@ -162,6 +162,14 @@ _D'un entier à du binaires 1/0_
 So You think you know Git: [https://www.youtube.com/watch?v=aolI_Rz0ZqY](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 - Crazy: https://www.youtube.com/watch?v=aolI_Rz0ZqY 20:58 Git SSH
 
+
+---------------
+Groupe:
+
+Week 1 | Week 2 
+![image](https://github.com/user-attachments/assets/22fa6835-46d0-4eb2-8b21-022e77fcbd9d)
+ | ![image](https://github.com/user-attachments/assets/f2c0f0b7-54f0-41f3-9254-5e56e78ed95e)
+
 -------------
 
 Retiré:
