@@ -103,6 +103,9 @@ Que le code soit avec vous 🔦.
 
 **Milestone de la semaine:**   https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/blob/main/Week/2025_02_10_Milestone.md  
 
+[![image](https://github.com/user-attachments/assets/e8e2aa24-85be-458b-bb13-e9613dd1b0ea)](https://youtu.be/qxmC8YoRqHY?t=15351)
+- Video: https://youtu.be/qxmC8YoRqHY?t=15351
+- Chapitre: https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/blob/main/FromZeroToColorPicking.md
 ----------------------------
 
 D'ancien cours qui peuvent vous servir pour votre carrière:
