@@ -1,181 +1,181 @@
 
 Chapter:
--[ ] [00:00:00](https://www.youtube.com/watch?v=qxmC8YoRqHY) Intro
--[ ] [00:02:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=139s) Install Python
--[ ] [00:02:26](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=146s) Admin & PATH
--[ ] [00:06:18](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=378s) Python terminal
--[ ] [00:07:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=442s) Variable & print
--[ ] [00:07:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=442s) IDLE
--[ ] [00:07:51](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=471s) Install VS Code
--[ ] [00:08:54](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=534s) Install module
--[ ] [00:10:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=623s) First "for"
--[ ] [00:11:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=689s) Scratch to Warcraft
--[ ] [00:12:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=735s) Install Git
--[ ] [00:13:03](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=783s) Notepad
--[ ] [00:14:26](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=866s) Check Git
--[ ] [00:16:00](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=960s) Clone Git
--[ ] [00:16:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=982s) Show hidden files
--[ ] [00:17:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1053s) Missing modules
--[ ] [00:18:21](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1101s) Install modules
--[ ] [00:19:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1155s) Pyperclip
--[ ] [00:19:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1174s) PyPi
--[ ] [00:20:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1238s) Psutil & pygetwindow
--[ ] [00:21:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1297s) win32gui
--[ ] [00:22:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1342s) LMGTFY, Manual, AI
--[ ] [00:24:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1454s) Pywin32
--[ ] [00:24:32](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1472s) IPv4 & port
--[ ] [00:25:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1534s) Ipconfig
--[ ] [00:26:07](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1567s) Install WoW
--[ ] [00:27:04](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1624s) Banned by TOS
--[ ] [00:27:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1640s) Nord VPN, VM, MAC
--[ ] [00:28:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1703s) Install[ Battle.net]-[ ] (https://www.youtube.com/redirect?event=comments&-[ ] redir_token=QUFFLUhqbjE2dVJHMGFWTS1sQVRUcnpQT1VtbzY5bnhwQXxBQ3Jtc0tuaW5wYktQYnlJRUJuS-[ ] jRqYi13SE9DV1VBQjNZd2E4cTdKTDZfV1VOY2tEUmZNTWdJV0VTVjBXVFFRVE5NN3dxVjJWRlRIa09FRi0zSG-[ ] llTkx0aENLUHpLU0FwRU1odWdMYTVGRTRXaDdtVm5URWZVWQ&q=http%3A%2F%2Fbattle.net%2F)
--[ ] 
--[ ] [00:32:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1922s) Create 5 accounts
--[ ] [00:31:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1862s) PyAutoGUI during -[ ] install
--[ ] [00:33:01](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1981s) Python with PyAutoGUI
--[ ] [00:33:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2030s) Import in Python
--[ ] [00:34:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2059s) RTFM
--[ ] [00:35:11](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2111s) Edit multiple lines
--[ ] [00:36:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2162s) Move mouse
--[ ] [00:36:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2212s) time.sleep()
--[ ] [00:38:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2323s) Write "J'aime les -[ ] frites"
--[ ] [00:39:46](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2386s) "/dance" keyup/-[ ] keydown
--[ ] [00:42:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2554s) Keyboard input
--[ ] [00:44:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2677s) Create gnome warlock
--[ ] [00:45:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2720s) Skip tutorial to lvl -[ ] 10
--[ ] [00:46:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2768s) Multiboxing: 2nd -[ ] account
--[ ] [00:47:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2875s) Configure FPS & -[ ] quality
--[ ] [00:49:45](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2985s) Log in with PyAutoGUI
--[ ] [00:50:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3038s) pyclip for English -[ ] keyboard
--[ ] [00:52:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3143s) Paperclip copy-paste
--[ ] [00:53:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3229s) Choose account
--[ ] [00:55:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3310s) Same server -[ ] characters
--[ ] [00:55:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3350s) Don’t bot during -[ ] human hours
--[ ] [00:56:00](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3360s) Human report = bot -[ ] enemy
--[ ] [00:56:57](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3417s) Level-up code
--[ ] [00:58:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3502s) `while tab 1`
--[ ] [00:59:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3590s) `for i in range(4)`
--[ ] [01:00:46](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3646s) Release key
--[ ] [01:02:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3763s) Skip tutorial -[ ] discreetly
--[ ] [01:03:45](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3825s)[ IntegerToWarcraft.-[ ] py](https://www.youtube.com/redirect?event=comments&-[ ] redir_token=QUFFLUhqbUhGVnU0Snd6TGZFVVlkRmlZd01XdUJGcTBxd3xBQ3Jtc0tsZUVXRFcxWHl1NGpmS-[ ] ld3WjZvR0dVLUVWc1kzLVRSN3U0X1dCOTE2TWFpTnE1XzBod1piZkoxX1czTjg2dW5kMFB4Vkd5Q0R6SlBuTX-[ ] BGWG5oUkRmdWpSSFNSb0hlZElWTlAxMWRCOEhGdnE5aGR0Zw&q=http%3A%2F%2Fintegertowarcraft.-[ ] py%2F)
--[ ] 
--[ ] [01:04:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3873s) IPv4 & PORT 7073
--[ ] [01:06:41](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4001s) Struct & compression
--[ ] [01:08:09](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4089s) struct.pack("ii", -[ ] index, value)
--[ ] [01:10:56](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4256s) Index table for -[ ] keyboard
--[ ] [01:11:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4309s) 1000 push, 2000 -[ ] release
--[ ] [01:12:35](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4355s) Variable for tab & -[ ] power 1
--[ ] [01:13:51](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4431s) Press & release -[ ] method
--[ ] [01:14:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4490s) Index variable for -[ ] player
--[ ] [01:16:28](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4588s) Press +1000 = release
--[ ] [01:17:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4630s) Press & release 1 -[ ] for 1.9s
--[ ] [01:18:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4722s) Chat & GPT for coding
--[ ] [01:20:44](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4844s) Send integers via UDP
--[ ] [01:22:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4930s) Choose player with -[ ] int2wow
--[ ] [01:23:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5002s) Anti-bot ideas
--[ ] [01:24:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5083s) Anti-bot = TOS -[ ] violation
--[ ] [01:24:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5098s) Report bot in-game
--[ ] [01:27:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5272s) Play with keys, not -[ ] mouse
--[ ] [01:28:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5323s) Xbox controller with -[ ] XOMI
--[ ] [01:29:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5392s) "CurseForge" for WoW
--[ ] [01:32:07](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5527s) WeakAuras
--[ ] [01:33:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5582s) AutoQuest
--[ ] [01:33:24](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5604s) Leatrix Maps
--[ ] [01:34:30](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5670s) Console Port for Xbox
--[ ] [01:36:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5774s) /reload
--[ ] [01:37:11](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5831s) WoW on Steam Deck
--[ ] [01:39:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5960s) Change Console Port -[ ] UI
--[ ] [01:41:06](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6066s) Controller demo
--[ ] [01:44:51](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6291s) One account at a time
--[ ] [01:46:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6410s) QA testing with Xbox
--[ ] [01:49:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6582s) Install Visual Studio
--[ ] [01:51:18](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6678s) JetBrains
--[ ] [01:53:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6790s) VS dotnet module
--[ ] [01:53:16](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6796s) Unity3D module
--[ ] [01:54:21](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6861s) C# online
--[ ] [01:54:26](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6866s) Console.WriteLine-[ ] ("Hello World")
--[ ] [01:55:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6915s) Import vs using -[ ] System
--[ ] [01:55:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6958s) Class: methods & -[ ] variables
--[ ] [01:56:32](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6992s) Variable in C#
--[ ] [01:57:16](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7036s) Display variable
--[ ] [01:58:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7117s) Console.ReadLine
--[ ] [01:58:57](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7137s) Macro: L 1000 l
--[ ] [01:59:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7182s) string[] array for -[ ] macro
--[ ] [02:00:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7233s) Count with Length
--[ ] [02:01:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7279s) foreach in array
--[ ] [02:03:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7409s) Convert 1000 to time
--[ ] [02:04:09](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7449s) Thread.Sleep
--[ ] [02:05:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7514s) ChatGPT & manual
--[ ] [02:06:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7579s) Indent text
--[ ] [02:07:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7649s) If, else if, else
--[ ] [02:08:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7717s) Pseudo-code
--[ ] [02:09:28](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7768s) Install Visual Studio
--[ ] [02:09:54](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7794s) Create console -[ ] project
--[ ] [02:11:24](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7884s) .NET 8 or .NET 9?
--[ ] [02:12:35](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7955s) First C# console app
--[ ] [02:15:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8102s) Python to C# with AI
--[ ] [02:15:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8155s) Bit shifting
--[ ] [02:17:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8239s) Muscle memory: avoid -[ ] AI
--[ ] [02:18:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8329s) Declare variables in -[ ] C#
--[ ] [02:19:11](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8351s) snake_case vs -[ ] PascalCase
--[ ] [02:21:17](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8477s) Use switch
--[ ] [02:25:31](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8731s) Press, release, tap
--[ ] [02:26:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8797s) Parameters
--[ ] [02:30:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9033s) Review minimal code
--[ ] [02:35:03](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9303s) Use code
--[ ] [02:40:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9615s) Warcraft Client QA
--[ ] [02:41:31](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9691s) git clone clientQA
--[ ] [02:42:53](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9773s) Open VS project
--[ ] [02:43:30](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9810s) Reset Window Layout
--[ ] [02:44:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9848s) What is main?
--[ ] [02:44:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9878s) Student vs Teacher -[ ] Program
--[ ] [02:46:01](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9961s) Variable for IP, -[ ] port, player
--[ ] [02:46:46](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10006s)[ 127.0.0.1](https://-[ ] www.youtube.com/redirect?event=comments&-[ ] redir_token=QUFFLUhqbVM2YTZnbFpTbkJaTzc5VUExY3VDT3BDR2F0UXxBQ3Jtc0ttczlFSGhRbW9zdGNzN-[ ] XZONUxNS3dWb0JoM2tMZmNET1JkZG0tbnExMy1QYmtGWTFUYVU5czhYSmwyeGttc2EyYlplTXpHd0tIRFFqTk-[ ] NzXzRqOU83alRlOXhudnVjekdLVFBuSTZHTFE3b3FReXpUaw&q=http%3A%2F%2F127.0.0.1%2F) & ID
--[ ] [02:47:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10053s) ChampionThread
--[ ] [02:48:25](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10105s) RotateLeftToRight
--[ ] [02:49:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10150s) RotateToAngle
--[ ] [02:49:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10195s) Skip video start
--[ ] [02:50:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10249s) champion.TapJump()
--[ ] [02:51:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10282s) while(true) & thread
--[ ] [02:52:41](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10361s) champion.-[ ] TapTabulation()
--[ ] [02:52:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10375s) champion.-[ ] WaitForOneSecond()
--[ ] [02:55:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10529s) Copy-paste vs for-[ ] (;;)
--[ ] [03:00:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10808s) Enable Interaction -[ ] Key
--[ ] [03:01:04](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10864s) Visit Murlocs
--[ ] [03:01:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10902s) Turn left
--[ ] [03:03:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10999s) Use breakpoint
--[ ] [03:05:09](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11109s) View variable state
--[ ] [03:05:56](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11156s) Create object in -[ ] memory
--[ ] [03:06:21](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11181s) Task Manager
--[ ] [03:06:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11194s) Default member -[ ] variable
--[ ] [03:07:12](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11232s) Constructor
--[ ] [03:08:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11295s) Use others' code
--[ ] [03:08:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11338s) champion.TapJump() -[ ] internals
--[ ] [03:09:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11363s) View array in memory
--[ ] [03:09:54](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11394s) Count in binary
--[ ] [03:10:36](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11436s) Execution time
--[ ] [03:12:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11569s) Rotate champion
--[ ] [03:13:56](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11636s) WeakAura color
--[ ] [03:14:59](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11699s) Copy base58 code
--[ ] [03:15:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11743s) Import into WeakAura
--[ ] [03:16:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11812s) Lua code
--[ ] [03:18:36](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11916s) Radian to degree
--[ ] [03:19:31](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11971s) \n \r in text
--[ ] [03:20:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12014s) Compiler vs -[ ] interpreter
--[ ] [03:20:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12058s) Take time to think
--[ ] [03:21:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12118s) Color picking
--[ ] [03:24:27](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12267s) X, y, angle to color
--[ ] [03:26:41](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12401s) Get color in C#
--[ ] [03:27:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12458s) Forget color picker -[ ] code
--[ ] [03:33:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12814s) Use user32.dll
--[ ] [03:43:40](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13420s) Use color picker
--[ ] [03:44:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13460s) Color picker demo
--[ ] [03:44:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13483s) Turn to S, N, E, O
--[ ] [03:47:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13628s) Move & rotate
--[ ] [03:48:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13699s) Move in square
--[ ] [03:49:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13777s) RotateToAngle code
--[ ] [03:53:13](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13993s) How to move
--[ ] [04:01:18](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=14478s) End
+- [ ] [00:00:00](https://www.youtube.com/watch?v=qxmC8YoRqHY) Intro
+- [ ] [00:02:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=139s) Install Python
+- [ ] [00:02:26](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=146s) Admin & PATH
+- [ ] [00:06:18](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=378s) Python terminal
+- [ ] [00:07:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=442s) Variable & print
+- [ ] [00:07:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=442s) IDLE
+- [ ] [00:07:51](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=471s) Install VS Code
+- [ ] [00:08:54](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=534s) Install module
+- [ ] [00:10:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=623s) First "for"
+- [ ] [00:11:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=689s) Scratch to W arcraft
+- [ ] [00:12:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=735s) Install Git
+- [ ] [00:13:03](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=783s) Notepad
+- [ ] [00:14:26](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=866s) Check Git
+- [ ] [00:16:00](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=960s) Clone Git
+- [ ] [00:16:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=982s) Show hidden files
+- [ ] [00:17:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1053s) Missing modules
+- [ ] [00:18:21](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1101s) Install modules
+- [ ] [00:19:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1155s) Pyperclip
+- [ ] [00:19:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1174s) PyPi
+- [ ] [00:20:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1238s) Psutil & p ygetwindow
+- [ ] [00:21:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1297s) win32gui
+- [ ] [00:22:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1342s) LMGTFY, Manual, A I
+- [ ] [00:24:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1454s) Pywin32
+- [ ] [00:24:32](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1472s) IPv4 & port
+- [ ] [00:25:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1534s) Ipconfig
+- [ ] [00:26:07](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1567s) Install WoW
+- [ ] [00:27:04](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1624s) Banned by TOS
+- [ ] [00:27:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1640s) Nord VPN, VM, M AC
+- [ ] [00:28:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1703s) Install[ Battle.n et]-[ ] (https://www.youtube.com/redirect?event=comments&-[ ] r edir_token=QUFFLUhqbjE2dVJHMGFWTS1sQVRUcnpQT1VtbzY5bnhwQXxBQ3Jtc0tuaW5wYktQYnlJRUJuS- [ ] j RqYi13SE9DV1VBQjNZd2E4cTdKTDZfV1VOY2tEUmZNTWdJV0VTVjBXVFFRVE5NN3dxVjJWRlRIa09FRi0zSG- [ ] llTkx0aENLUHpLU0FwRU1odWdMYTVGRTRXaDdtVm5URWZVWQ&q=http%3A%2F%2Fbattle.net%2F)
+- [ ] 
+- [ ] [00:32:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1922s) Create 5 a ccounts
+- [ ] [00:31:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1862s) PyAutoGUI d uring -[ ] install
+- [ ] [00:33:01](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=1981s) Python with P yAutoGUI
+- [ ] [00:33:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2030s) Import in Python
+- [ ] [00:34:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2059s) RTFM
+- [ ] [00:35:11](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2111s) Edit multiple l ines
+- [ ] [00:36:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2162s) Move mouse
+- [ ] [00:36:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2212s) time.sleep()
+- [ ] [00:38:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2323s) Write "J'aime l es -[ ] frites"
+- [ ] [00:39:46](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2386s) "/dance" keyup/-[  ] keydown
+- [ ] [00:42:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2554s) Keyboard input
+- [ ] [00:44:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2677s) Create gnome w arlock
+- [ ] [00:45:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2720s) Skip tutorial t o lvl -[ ] 10
+- [ ] [00:46:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2768s) Multiboxing: 2 nd -[ ] account
+- [ ] [00:47:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2875s) Configure FPS & - [ ] quality
+- [ ] [00:49:45](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=2985s) Log in with P yAutoGUI
+- [ ] [00:50:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3038s) pyclip for E nglish -[ ] keyboard
+- [ ] [00:52:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3143s) Paperclip c opy-paste
+- [ ] [00:53:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3229s) Choose account
+- [ ] [00:55:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3310s) Same server -[  ] characters
+- [ ] [00:55:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3350s) Don’t bot d uring -[ ] human hours
+- [ ] [00:56:00](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3360s) Human report = b ot -[ ] enemy
+- [ ] [00:56:57](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3417s) Level-up code
+- [ ] [00:58:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3502s) `while tab 1`
+- [ ] [00:59:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3590s) `for i in range( 4)`
+- [ ] [01:00:46](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3646s) Release key
+- [ ] [01:02:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3763s) Skip tutorial -[  ] discreetly
+- [ ] [01:03:45](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3825s)[ I ntegerToWarcraft.-[ ] py](https://www.youtube.com/redirect?event=comments&-[ ] r edir_token=QUFFLUhqbUhGVnU0Snd6TGZFVVlkRmlZd01XdUJGcTBxd3xBQ3Jtc0tsZUVXRFcxWHl1NGpmS- [ ] l d3WjZvR0dVLUVWc1kzLVRSN3U0X1dCOTE2TWFpTnE1XzBod1piZkoxX1czTjg2dW5kMFB4Vkd5Q0R6SlBuTX- [ ] BGWG5oUkRmdWpSSFNSb0hlZElWTlAxMWRCOEhGdnE5aGR0Zw&q =http%3A%2F%2Fintegertowarcraft.-[ ] py%2F)
+- [ ] 
+- [ ] [01:04:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=3873s) IPv4 & PORT 7073
+- [ ] [01:06:41](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4001s) Struct & c ompression
+- [ ] [01:08:09](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4089s) struct.pack( "ii", -[ ] index, value)
+- [ ] [01:10:56](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4256s) Index table for - [ ] keyboard
+- [ ] [01:11:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4309s) 1000 push, 2000 - [ ] release
+- [ ] [01:12:35](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4355s) Variable for t ab & -[ ] power 1
+- [ ] [01:13:51](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4431s) Press & release - [ ] method
+- [ ] [01:14:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4490s) Index variable f or -[ ] player
+- [ ] [01:16:28](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4588s) Press +1000 = r elease
+- [ ] [01:17:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4630s) Press & release 1  -[ ] for 1.9s
+- [ ] [01:18:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4722s) Chat & GPT for c oding
+- [ ] [01:20:44](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4844s) Send integers v ia UDP
+- [ ] [01:22:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=4930s) Choose player w ith -[ ] int2wow
+- [ ] [01:23:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5002s) Anti-bot ideas
+- [ ] [01:24:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5083s) Anti-bot = TOS -[  ] violation
+- [ ] [01:24:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5098s) Report bot i n-game
+- [ ] [01:27:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5272s) Play with keys, n ot -[ ] mouse
+- [ ] [01:28:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5323s) Xbox controller w ith -[ ] XOMI
+- [ ] [01:29:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5392s) "CurseForge" f or WoW
+- [ ] [01:32:07](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5527s) WeakAuras
+- [ ] [01:33:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5582s) AutoQuest
+- [ ] [01:33:24](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5604s) Leatrix Maps
+- [ ] [01:34:30](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5670s) Console Port f or Xbox
+- [ ] [01:36:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5774s) /reload
+- [ ] [01:37:11](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5831s) WoW on Steam D eck
+- [ ] [01:39:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=5960s) Change Console P ort -[ ] UI
+- [ ] [01:41:06](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6066s) Controller demo
+- [ ] [01:44:51](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6291s) One account at a  time
+- [ ] [01:46:50](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6410s) QA testing with X box
+- [ ] [01:49:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6582s) Install Visual S tudio
+- [ ] [01:51:18](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6678s) JetBrains
+- [ ] [01:53:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6790s) VS dotnet module
+- [ ] [01:53:16](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6796s) Unity3D module
+- [ ] [01:54:21](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6861s) C# online
+- [ ] [01:54:26](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6866s) Console.W riteLine-[ ] ("Hello World")
+- [ ] [01:55:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6915s) Import vs using - [ ] System
+- [ ] [01:55:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6958s) Class: m ethods & -[ ] variables
+- [ ] [01:56:32](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=6992s) Variable in C#
+- [ ] [01:57:16](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7036s) Display variable
+- [ ] [01:58:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7117s) Console.ReadLine
+- [ ] [01:58:57](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7137s) Macro: L 1000 l
+- [ ] [01:59:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7182s) string[] array f or -[ ] macro
+- [ ] [02:00:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7233s) Count with L ength
+- [ ] [02:01:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7279s) foreach in array
+- [ ] [02:03:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7409s) Convert 1000 to t ime
+- [ ] [02:04:09](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7449s) Thread.Sleep
+- [ ] [02:05:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7514s) ChatGPT & manual
+- [ ] [02:06:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7579s) Indent text
+- [ ] [02:07:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7649s) If, else if, e lse
+- [ ] [02:08:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7717s) Pseudo-code
+- [ ] [02:09:28](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7768s) Install Visual S tudio
+- [ ] [02:09:54](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7794s) Create console -[  ] project
+- [ ] [02:11:24](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7884s) .NET 8 or .NET 9 ?
+- [ ] [02:12:35](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=7955s) First C# c onsole app
+- [ ] [02:15:02](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8102s) Python to C# w ith AI
+- [ ] [02:15:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8155s) Bit shifting
+- [ ] [02:17:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8239s) Muscle memory: a void -[ ] AI
+- [ ] [02:18:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8329s) Declare v ariables in -[ ] C#
+- [ ] [02:19:11](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8351s) snake_case vs -[  ] PascalCase
+- [ ] [02:21:17](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8477s) Use switch
+- [ ] [02:25:31](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8731s) Press, release, t ap
+- [ ] [02:26:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=8797s) Parameters
+- [ ] [02:30:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9033s) Review minimal c ode
+- [ ] [02:35:03](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9303s) Use code
+- [ ] [02:40:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9615s) Warcraft Client Q A
+- [ ] [02:41:31](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9691s) git clone c lientQA
+- [ ] [02:42:53](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9773s) Open VS project
+- [ ] [02:43:30](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9810s) Reset Window L ayout
+- [ ] [02:44:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9848s) What is main?
+- [ ] [02:44:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9878s) Student vs T eacher -[ ] Program
+- [ ] [02:46:01](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9961s) Variable for I P, -[ ] port, player
+- [ ] [02:46:46](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10006s)[ 127.0.0.1]( https://-[ ] www.youtube.com/redirect?event=comments&-[ ] r edir_token=QUFFLUhqbVM2YTZnbFpTbkJaTzc5VUExY3VDT3BDR2F0UXxBQ3Jtc0ttczlFSGhRbW9zdGNzN- [ ] X ZONUxNS3dWb0JoM2tMZmNET1JkZG0tbnExMy1QYmtGWTFUYVU5czhYSmwyeGttc2EyYlplTXpHd0tIRFFqTk- [ ] NzXzRqOU83alRlOXhudnVjekdLVFBuSTZHTFE3b3FReXpUaw&q=http%3A%2F%2F127.0.0.1%2F) & I D
+- [ ] [02:47:33](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10053s) ChampionThread
+- [ ] [02:48:25](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10105s) R otateLeftToRight
+- [ ] [02:49:10](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10150s) RotateToAngle
+- [ ] [02:49:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10195s) Skip video s tart
+- [ ] [02:50:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10249s) champion.T apJump()
+- [ ] [02:51:22](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10282s) while(true) & t hread
+- [ ] [02:52:41](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10361s) champion.-[ ] T apTabulation()
+- [ ] [02:52:55](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10375s) champion.-[ ] W aitForOneSecond()
+- [ ] [02:55:29](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10529s) Copy-paste vs f or-[ ] (;;)
+- [ ] [03:00:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10808s) Enable I nteraction -[ ] Key
+- [ ] [03:01:04](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10864s) Visit Murlocs
+- [ ] [03:01:42](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10902s) Turn left
+- [ ] [03:03:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=10999s) Use breakpoint
+- [ ] [03:05:09](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11109s) View variable s tate
+- [ ] [03:05:56](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11156s) Create object i n -[ ] memory
+- [ ] [03:06:21](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11181s) Task Manager
+- [ ] [03:06:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11194s) Default member - [ ] variable
+- [ ] [03:07:12](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11232s) Constructor
+- [ ] [03:08:15](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11295s) Use others' c ode
+- [ ] [03:08:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11338s) champion.T apJump() -[ ] internals
+- [ ] [03:09:23](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11363s) View array in m emory
+- [ ] [03:09:54](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11394s) Count in binary
+- [ ] [03:10:36](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11436s) Execution time
+- [ ] [03:12:49](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11569s) Rotate champion
+- [ ] [03:13:56](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11636s) WeakAura color
+- [ ] [03:14:59](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11699s) Copy base58 c ode
+- [ ] [03:15:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11743s) Import into W eakAura
+- [ ] [03:16:52](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11812s) Lua code
+- [ ] [03:18:36](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11916s) Radian to d egree
+- [ ] [03:19:31](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=11971s) \n \r in text
+- [ ] [03:20:14](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12014s) Compiler vs -[  ] interpreter
+- [ ] [03:20:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12058s) Take time to t hink
+- [ ] [03:21:58](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12118s) Color picking
+- [ ] [03:24:27](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12267s) X, y, angle to c olor
+- [ ] [03:26:41](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12401s) Get color in C#
+- [ ] [03:27:38](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12458s) Forget color p icker -[ ] code
+- [ ] [03:33:34](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=12814s) Use user32.dll
+- [ ] [03:43:40](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13420s) Use color p icker
+- [ ] [03:44:20](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13460s) Color picker d emo
+- [ ] [03:44:43](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13483s) Turn to S, N, E , O
+- [ ] [03:47:08](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13628s) Move & rotate
+- [ ] [03:48:19](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13699s) Move in square
+- [ ] [03:49:37](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13777s) RotateToAngle c ode
+- [ ] [03:53:13](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=13993s) How to move
+- [ ] [04:01:18](https://www.youtube.com/watch?v=qxmC8YoRqHY&t=14478s) End
 
 
 ---------------
