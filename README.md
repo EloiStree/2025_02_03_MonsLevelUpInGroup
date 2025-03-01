@@ -1,8 +1,21 @@
 _Server hors formation : `apint.ddns.net:3615`_   
 
-Note:
-- https://www.youtube.com/watch?v=F4Xb_WRpJaE
-- https://cleanthebots.com/
+
+**Objectif Principal :**
+-  Apprendre et maîtriser C# pour une formation longue sur le jeu vidéo.
+  
+**Objectifs Secondaires :**  
+- Automatiser la chasse aux bots dans Warcraft pour le fun  
+- Se former pour devenir QA tester grâce au code  
+
+**Objectif Personnel :**  
+- Vous émerveiller par la magie du code 😁.  
+
+**Notes :**  
+- [Context de Clean The Bots 📼](https://www.youtube.com/watch?v=F4Xb_WRpJaE)  
+- [CleanTheBots](https://cleanthebots.com/)  
+
+
 
 **Introduction à l'atelier : avant la bataille (^^')**  
 [![image](https://github.com/user-attachments/assets/047ad8b5-7680-4297-930f-49ce7d74cad7)](https://youtu.be/gLs49QntNyM)
