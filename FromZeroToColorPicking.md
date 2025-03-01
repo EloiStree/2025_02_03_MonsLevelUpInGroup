@@ -1,4 +1,7 @@
 
+
+
+
 **Introduction** : https://youtu.be/qxmC8YoRqHY?t=47  
 **Installer Python** : https://youtu.be/qxmC8YoRqHY?t=139  
 **Admin privilèges et PATH** : https://youtu.be/qxmC8YoRqHY?t=146  
