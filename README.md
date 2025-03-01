@@ -22,9 +22,15 @@ _Server hors formation : `apint.ddns.net:3615`_
 *Car aucun plan ne survit à la bataille*  
 [https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)
 
-  
-✅[Checklist: Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing)   
-🆂🅲🅳🅴🅵 Tier List C#: [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
+Voici une reformulation :
+
+**Auto-formation:**  
+Découvrez ci-dessous une liste de ressources pour vous former en vue de devenir développeur junior Unity3D/C# dans le domaine du jeu vidéo.  
+
+- ✅ [Checklist : Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing)  
+- 🆂🅲🅳🅴🅵 **Tier List C#** : [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
+
+# Context de l'atelier
 
 |[![image](https://github.com/user-attachments/assets/06381aed-d452-410f-bf3d-b915ec865dd5)](https://technocite.be) | [![image](https://github.com/user-attachments/assets/aeb7ae4c-a8a5-4c7a-8888-0d43c28c6320)](https://maracas-studio.com) |
 | - | - |
