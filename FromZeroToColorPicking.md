@@ -55,6 +55,17 @@ le code le plus dur du monde pour monter de niveau: https://youtu.be/qxmC8YoRqHY
 ´while tab 1´ https://youtu.be/qxmC8YoRqHY?t=3502
 `for i in range(4)` https://youtu.be/qxmC8YoRqHY?t=3590
 oublier pas de relacher la touche: https://youtu.be/qxmC8YoRqHY?t=3646
+skiper le tutorial sans être trop visible: https://youtu.be/qxmC8YoRqHY?t=3763
+retour à IntegerToWarcraft.py: https://youtu.be/qxmC8YoRqHY?t=3825
+C'est quoi un IPV4 et un PORT 7073 ? https://youtu.be/qxmC8YoRqHY?t=3873
+struct et compresion d'un entier(int) à du binaire(10): https://youtu.be/qxmC8YoRqHY?t=4001
+struct.pack("<ii", index , value) https://youtu.be/qxmC8YoRqHY?t=4089
+un table d'index pour simuler le clavier: https://youtu.be/qxmC8YoRqHY?t=4256
+1000 pousser et 2000 relacher: https://youtu.be/qxmC8YoRqHY?t=4309
+créer une variable pour tab et pouvoir 1: https://youtu.be/qxmC8YoRqHY?t=4355
+créer votre première méthode press and release: https://youtu.be/qxmC8YoRqHY?t=4431
+crer une variable index pour selection le joueur: https://youtu.be/qxmC8YoRqHY?t=4490 
+
 
 
 
