@@ -1,6 +1,7 @@
 _Server hors formation : `apint.ddns.net:3615`_   
 
 **Introduction à l'atelier : avant la bataille (^^')**  
+[![image](https://github.com/user-attachments/assets/047ad8b5-7680-4297-930f-49ce7d74cad7)](https://youtu.be/gLs49QntNyM)
 *Car aucun plan ne survit à la bataille*  
 [https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)
 
