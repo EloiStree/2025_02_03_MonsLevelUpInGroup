@@ -164,7 +164,11 @@ prenez le temps de penser à ce que vous avez devant vos yeux: https://youtu.be/
 color picking, c'est quoi ça ? https://youtu.be/qxmC8YoRqHY?t=13078
 X, y et angle à une couleur de 3 bytes: https://youtu.be/qxmC8YoRqHY?t=13407
 Allons récupérer la couleur en C# https://youtu.be/qxmC8YoRqHY?t=13641
-
+Me having trouble remembering how to use color picker code https://youtu.be/qxmC8YoRqHY?t=13718
+Utiliser user32.dll: https://youtu.be/qxmC8YoRqHY?t=14254
+Comment utiliser le color picker side task : https://youtu.be/qxmC8YoRqHY?t=15220
+Demo du color picker: https://youtu.be/qxmC8YoRqHY?t=15460
+Tourner  vers le S N E O : https://youtu.be/qxmC8YoRqHY?t=15483
 
 
 
