@@ -94,7 +94,9 @@ Que le code soit avec vous 🔦.
     - C#: [GitHub Code](https://github.com/EloiStree/2025_02_08_Ex_10SecondNinjaPythonAndCSharp/blob/main/VisualStudio/HelloNinja/Program.cs)
 - **World of Warcraft : Check-list des concepts C# et entraide** ([Game](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/8) [Workshop](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/issues/22))  
   - Vous permet d'apprendre les bases de la programmation orientée objet en C#.  
-  - **L'objectif est simple** : finir les "The Deadmines" de *World of Warcraft* en équipe.  
+  - **L'objectif est simple** :
+    - Junior: finir les "The Deadmines" de *World of Warcraft* en équipe.
+    - Medior: faire un bot sur wow hardcore pour trouver et report les bots.
   - **Plan** :  
     - Utiliser C# pour finir The Deadmines en pair programming  
     - Transition vers la programmation orientée objet en C#  
