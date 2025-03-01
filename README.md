@@ -22,7 +22,6 @@ _Server hors formation : `apint.ddns.net:3615`_
 *Car aucun plan ne survit à la bataille*  
 [https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)
 
-Voici une reformulation :
 
 **Auto-formation:**  
 Découvrez ci-dessous une liste de ressources pour vous former en vue de devenir développeur junior Unity3D/C# dans le domaine du jeu vidéo.  
