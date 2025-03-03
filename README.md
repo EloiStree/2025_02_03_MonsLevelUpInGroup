@@ -106,9 +106,11 @@ Que le code soit avec vous 🔦.
 
 **Milestone de la semaine:**   https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/blob/main/Week/2025_02_10_Milestone.md  
 
+Guide complète passant par Python jusqu'à tourner une personnage en C#:
 [![image](https://github.com/user-attachments/assets/e8e2aa24-85be-458b-bb13-e9613dd1b0ea)](https://youtu.be/qxmC8YoRqHY?t=15351)
 - Video: https://youtu.be/qxmC8YoRqHY?t=15351
 - Chapitre: https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/blob/main/FromZeroToColorPicking.md
+
 ----------------------------
 
 D'ancien cours qui peuvent vous servir pour votre carrière:
@@ -122,7 +124,6 @@ Hors sujet pour ceux qui aimerai apprendre plus via Scratch et Raspberry Pi:
 - les Raspberry Pi 5: [https://github.com/EloiStree/HelloRaspberryPiDevKitCM5](https://github.com/EloiStree/HelloRaspberryPiDevKitCM5)
 - Si vous désirez perdre vos économies sur du Python avec les Pico W et ESP32: [https://github.com/EloiStree/HelloInput](https://github.com/EloiStree/HelloInput)
   
-
 Des outils de hack par injection pour ceux qui aimerai faire une carrière de QA testeurs par le code:  
 _Ou qui aimerait s'essayer au métier que je résumerai par en QA AI Scratcher_    
 - Simulate a keyboard, gamepad and media with Raspberry Pi: https://github.com/EloiStree/2024_11_16_WowIntegerWorkshopPicoW  
