@@ -1,5 +1,3 @@
-_Server hors formation : `apint.ddns.net:3615`_   
-
 
 **Objectif Principal :**
 -  Apprendre et maîtriser C# pour une formation longue sur le jeu vidéo.
@@ -11,23 +9,31 @@ _Server hors formation : `apint.ddns.net:3615`_
 **Objectif Personnel :**  
 - Vous émerveiller par la magie du code 😁.  
 
-**Notes :**  
-- [Context de Clean The Bots 📼](https://www.youtube.com/watch?v=F4Xb_WRpJaE)  
-- [CleanTheBots](https://cleanthebots.com/)  
-
-
-
-**Introduction à l'atelier : avant la bataille (^^')**  
-[![image](https://github.com/user-attachments/assets/047ad8b5-7680-4297-930f-49ce7d74cad7)](https://youtu.be/gLs49QntNyM)
-*Car aucun plan ne survit à la bataille*  
-[https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)
-
 
 **Auto-formation:**  
 Découvrez ci-dessous une liste de ressources pour vous former en vue de devenir développeur junior Unity3D/C# dans le domaine du jeu vidéo.  
 
 - ✅ [Checklist : Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing)  
 - 🆂🅲🅳🅴🅵 **Tier List C#** : [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
+
+**Apprend à cleaner des bots:**  
+- [Context de Clean The Bots 📼](https://www.youtube.com/watch?v=F4Xb_WRpJaE)  
+- [CleanTheBots](https://cleanthebots.com/)  
+
+**Code à utiliser:** 
+- Client: [https://github.com/EloiStree/2025_02_05_WarcraftClientQA](https://github.com/EloiStree/2025_02_05_WarcraftClientQA)
+- Server: [https://github.com/EloiStree/2024_08_29_ScratchToWarcraft](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)
+
+
+------------------------------------------
+
+
+**Introduction à l'atelier (pré-formation)**  
+[![image](https://github.com/user-attachments/assets/047ad8b5-7680-4297-930f-49ce7d74cad7)](https://youtu.be/gLs49QntNyM)
+*Car aucun plan ne survit à la bataille*  
+[https://youtu.be/gLs49QntNyM](https://youtu.be/gLs49QntNyM)
+
+
 
 # Context de l'atelier
 
@@ -36,9 +42,6 @@ Découvrez ci-dessous une liste de ressources pour vous former en vue de devenir
 
 # Mons Level Up en groupe
 
-Code à utiliser: 
-- Client: https://github.com/EloiStree/2025_02_05_WarcraftClientQA
-- Server: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
 
 **Bonjour à tous,**
 
