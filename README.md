@@ -181,5 +181,5 @@ Week 1 | Week 2
   
 I often fail to that: quick reminder for me of what should be education.  
 [![image](https://github.com/user-attachments/assets/ce206448-e321-4ab1-b854-474efe2893b4)](https://www.youtube.com/shorts/KPxXuFYm-XQ?t=1&feature=share)  
-"Make an exercice specific to one training, then repeat on it until, the connection are done. Then provide a new one that use the first one."  
+"Make an exercice specific to one training that is fun (rewarding), then repeat on it until, the connection are done 90% of the time. Then provide a new one that use the first one."  
 
