@@ -174,3 +174,12 @@ _D'un entier à du binaires 1/0_
 Week 1 | Week 2 
 ![image](https://github.com/user-attachments/assets/22fa6835-46d0-4eb2-8b21-022e77fcbd9d)
  | ![image](https://github.com/user-attachments/assets/f2c0f0b7-54f0-41f3-9254-5e56e78ed95e)
+
+
+
+---------------
+  
+I often fail to that: quick reminder for me of what should be education.  
+[![image](https://github.com/user-attachments/assets/ce206448-e321-4ab1-b854-474efe2893b4)](https://www.youtube.com/shorts/KPxXuFYm-XQ?t=1&feature=share)  
+"Make an exercice specific to one training, then repeat on it until, the connection are done. Then provide a new one that use the first one."  
+
